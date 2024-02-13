@@ -16,8 +16,6 @@ On average, the program will be able to test around 60 to 125 passwords in an ho
 The slow speeds are due to the timeout and not the fact that this program is written in Python.
 
 
-The password list file provided must seperate passwords with a newline.
+The password list file provided must seperate passwords with a newlin
 
-Usage:
 
-./insta_cracker [username] < [password list file]
